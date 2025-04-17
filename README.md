@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @WolfAkki
-- 👀 I’m interested in JAVA
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on JAVA
-- 📫 How to reach me #here
+- 👋 Hi, I’m Akib khan
+- 👀 I’m interested in Mern stack
+- 🌱 I’m currently learning Mern full stack
+  
 
 <!---
 WolfAkki/WolfAkki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
